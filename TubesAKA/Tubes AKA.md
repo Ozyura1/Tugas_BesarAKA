@@ -1,7 +1,7 @@
 # <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
 <p align="center">
     Adam Nur Cahya Putra (2311102118)
-    Nandana Tsany Farrel Arkananta (2311102143)
+-Nandana Tsany Farrel Arkananta (2311102143)
 </p>
 
 ## Dasar Teori
