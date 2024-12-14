@@ -1,7 +1,7 @@
 # <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
 <p align="center">
     Adam Nur Cahya Putra (2311102118)
--Nandana Tsany Farrel Arkananta (2311102143)
+- Nandana Tsany Farrel Arkananta (2311102143)
 </p>
 
 ## Dasar Teori
@@ -9,7 +9,7 @@ Algoritma yang mengelola antrian pelanggan di kasir dengan memilih kasir yang pa
 
 ## Source Code 
 
-### 1. [Nama Topik]
+### Mengoptimalkan waktu tunggu di supermarket
 
 ```C++
 #include <iostream>
