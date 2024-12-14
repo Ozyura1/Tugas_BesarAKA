@@ -1,5 +1,8 @@
 # <h1 align="center">Laporan Praktikum Modul Tipe Data</h1>
-<p align="center">Adam Nur Cahya Putra (2311102118</p>
+<p align="center">
+    Adam Nur Cahya Putra (2311102118)
+    Nandana Tsany Farrel Arkananta (2311102143)
+</p>
 
 ## Dasar Teori
 Algoritma yang mengelola antrian pelanggan di kasir dengan memilih kasir yang paling efisien berdasarkan kecepatan dan jumlah barang yang dibeli oleh pelanggan. Setiap kasir memiliki estimasi waktu total yang dihitung berdasarkan kecepatan dan jumlah barang pelanggan dalam antrian. Proses ini bertujuan mengurangi kemacetan dan memastikan pelanggan dilayani dengan efisien, sehingga meningkatkan kepuasan pelanggan dengan waktu tunggu yang lebih singkat.
