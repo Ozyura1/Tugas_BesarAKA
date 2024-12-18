@@ -4,6 +4,12 @@
 - Nandana Tsany Farrel Arkananta (2311102143)
 </p>
 
+
+## Poster
+
+![Salinan dari Poster Tugas Besar Analisis Kompleksitas Algoritma](https://github.com/user-attachments/assets/93cade61-78fa-4097-b9f7-ccf2d563b948)
+
+
 ## Dasar Teori
 Algoritma yang mengelola antrian pelanggan di kasir dengan memilih kasir yang paling efisien berdasarkan kecepatan dan jumlah barang yang dibeli oleh pelanggan. Setiap kasir memiliki estimasi waktu total yang dihitung berdasarkan kecepatan dan jumlah barang pelanggan dalam antrian. Proses ini bertujuan mengurangi kemacetan dan memastikan pelanggan dilayani dengan efisien, sehingga meningkatkan kepuasan pelanggan dengan waktu tunggu yang lebih singkat.
 
